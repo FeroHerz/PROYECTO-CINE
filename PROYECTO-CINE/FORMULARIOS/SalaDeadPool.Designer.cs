@@ -139,7 +139,7 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(479, 36);
+            this.button1.Location = new System.Drawing.Point(473, 36);
             this.button1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(144, 78);
@@ -530,7 +530,7 @@
             this.panel1.Controls.Add(this.btnPagar);
             this.panel1.Controls.Add(this.txtPelicula);
             this.panel1.Controls.Add(this.txtsilla);
-            this.panel1.Location = new System.Drawing.Point(397, 436);
+            this.panel1.Location = new System.Drawing.Point(401, 436);
             this.panel1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(450, 275);
